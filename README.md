@@ -62,4 +62,5 @@ Task 10. Greatest Common Divisor (GCD)
 Write a recursive function that finds the GCD of two numbers
 using the Euclidean Algorithm.
 <img width="853" height="563" alt="Снимок экрана 2026-03-21 203159" src="https://github.com/user-attachments/assets/02192e7c-83b6-4448-a817-0d3ac06a56af" />
+
 We find the GCD by repeating (replace the numbers with (b, a % b)), keep doing this until the second number becomes 0, then the first number is the answer.
