@@ -3,7 +3,9 @@ GANI ZHAMENOV     IT 2502
 Task 1. Print Digits of a Number
 Write a recursive function that takes an integer as input and
 prints every digit of the given number on a separate line.
+
 <img width="739" height="960" alt="Снимок экрана 2026-03-21 181340" src="https://github.com/user-attachments/assets/0db9a0f8-16ff-45be-a94f-06ebc4c72977" />
+
 I printed all the remainders from dividion of number.
 
 Task 2. Average of Elements
