@@ -29,7 +29,7 @@ Just find factorial, it's easy.
 Task 5. Fibonacci Number
 Write a recursive function to find the n-th Fibonacci number. 
 <img width="1180" height="617" alt="Снимок экрана 2026-03-21 191453" src="https://github.com/user-attachments/assets/d61359ef-5ce0-4ad8-857a-33fbd3617434" />
-Just find the factorial.
+Keep finding sum of fibonacci(n-1) and fibobacci(n-2), whereas fib(0) and fib(1) are equal to 0 and 1 respectively.
 
 Task 6. Power Function
 You are given numbers a and n. Write a recursive function that
