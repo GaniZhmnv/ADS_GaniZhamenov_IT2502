@@ -1,4 +1,3 @@
-task5 (fibonacci)
 import java.util.Scanner;
 
 public class task5 {
