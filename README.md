@@ -54,7 +54,7 @@ It checks every char, and when i is equal to lenght of string.
 Task 9. Count Characters in a String
 Write a recursive function that counts the number of characters in a
 given string. The function should return the total number of characters
-in the string.
+in the string..
 <img width="971" height="537" alt="Снимок экрана 2026-03-21 194351" src="https://github.com/user-attachments/assets/b25d4400-035d-438a-b159-03dd1c78204c" />
 It counts chars until the end of the string.
 
