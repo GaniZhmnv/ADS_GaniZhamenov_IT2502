@@ -1,3 +1,5 @@
+package assignment1;
+
 import java.util.Scanner;
 public class task1 {
     public static void print(int n) {
